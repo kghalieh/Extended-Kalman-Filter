@@ -68,7 +68,7 @@ The project provides a CMakeFile that should work regardless of the changes you 
 
 The Kalman Filter was able to track the car using the provided noisy LASER and RADAR data. 
 
-![Simulator Result](./report-media/result.jpg)
+![Simulator Result](./report-media/result.JPG)
 
 
 
